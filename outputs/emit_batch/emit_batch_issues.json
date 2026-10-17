@@ -1,0 +1,11 @@
+[
+  {
+    "path": "data\\raw\\nasa_emit\\EMIT_L2B_CH4PLM_002_20220810T064957_000485.tif",
+    "granule_id": "EMIT_L2B_CH4PLM_002_20220810T064957_000485",
+    "status": "REVIEW",
+    "issues": [
+      "Missing matching GeoJSON metadata"
+    ],
+    "duplicate_of": null
+  }
+]
