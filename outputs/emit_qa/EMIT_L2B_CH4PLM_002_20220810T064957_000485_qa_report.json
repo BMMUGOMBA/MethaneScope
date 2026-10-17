@@ -1,0 +1,69 @@
+{
+  "record_id": "NASA_EMIT_CH4PLM_002_d3f2251013aa522e98dc",
+  "created_utc": "2026-10-17T14:48:44.416073+00:00",
+  "provider": "NASA LP DAAC",
+  "instrument": "EMIT",
+  "dataset_short_name": "EMITL2BCH4PLM",
+  "dataset_version": "002 (expected; verify downloaded granule)",
+  "dataset_doi": "10.5067/EMIT/EMITL2BCH4PLM.002",
+  "enhancement_units": "ppm m (per product documentation)",
+  "raster_file": "C:\\Users\\SOOQ ELASER\\OneDrive\\Desktop\\RemoteSensing\\MethaneScope\\data\\raw\\nasa_emit\\EMIT_L2B_CH4PLM_002_20220810T064957_000485.tif",
+  "raster_sha256": "d3f2251013aa522e98dc7e6bb3b55cda048601ec6c9ae8d4912c18bc7b16e2eb",
+  "geojson_file": "C:\\Users\\SOOQ ELASER\\OneDrive\\Desktop\\RemoteSensing\\MethaneScope\\data\\raw\\nasa_emit\\EMIT_L2B_CH4PLMMETA_002_20220810T064957_000485.json",
+  "geojson_sha256": "1a4d05ec2d4c0797bc45da760091073807040224a245bf5de7a7e2d68013f519",
+  "raster_crs": "EPSG:4326",
+  "raster_width": 256,
+  "raster_height": 245,
+  "band_count": 1,
+  "nodata": -9999.0,
+  "geographical_bounds_native_crs": [
+    35.13801780765254,
+    31.057128308606234,
+    35.27682933283817,
+    31.189975276069045
+  ],
+  "statistics": {
+    "valid_pixel_count": 1967,
+    "total_pixel_count": 62720,
+    "valid_fraction": 0.03136160714285714,
+    "minimum_ppm_m": -1005.10986328125,
+    "p05_ppm_m": -356.54523620605465,
+    "median_ppm_m": 370.63433837890625,
+    "p95_ppm_m": 1528.7923706054682,
+    "maximum_ppm_m": 3037.61376953125,
+    "mean_ppm_m": 461.1462031042759,
+    "maximum_pixel_row": 114,
+    "maximum_pixel_col": 119,
+    "maximum_pixel_x_native_crs": 35.20281459382318,
+    "maximum_pixel_y_native_crs": 31.127889652499693,
+    "maximum_pixel_lon_wgs84": 35.20281459382318,
+    "maximum_pixel_lat_wgs84": 31.127889652499693
+  },
+  "polygon_statistics": {
+    "valid_pixels_inside_outline": 1967,
+    "mean_ppm_m_inside_outline": 461.1462031042759,
+    "median_ppm_m_inside_outline": 370.63433837890625,
+    "maximum_ppm_m_inside_outline": 3037.61376953125
+  },
+  "geojson_first_feature_properties": {
+    "Plume ID": "CH4_PlumeComplex-485",
+    "Orbit": "2222205",
+    "DCID": "1344041727",
+    "UTC Time Observed": "2022-08-10T06:49:57Z",
+    "Max Plume Concentration (ppm m)": 3038.0,
+    "Latitude of max concentration": 31.12789,
+    "Longitude of max concentration": 35.20281,
+    "Wind Speed (m/s)": "NA",
+    "Wind Speed Std (m/s)": "NA",
+    "Wind Speed Source": "NA",
+    "Emissions Rate Estimate (kg/hr)": "NA",
+    "Emissions Rate Estimate Uncertainty (kg/hr)": "NA",
+    "Fetch Length (m)": "NA",
+    "DAAC Scene Names": [
+      "EMIT_L2B_CH4ENH_V002_20220810T064957_2222205_033"
+    ]
+  },
+  "quality_issues": [],
+  "structural_qc": "NO_ISSUES_DETECTED",
+  "scientific_validation": "NOT_ESTABLISHED_BY_THIS_NOTEBOOK"
+}
