@@ -1,0 +1,4 @@
+Strategy,Scheduled,Valid,Detections,Observed Fraction
+Daily at 11:00,7,6,2,0.3333333333333333
+Every 6 hours,28,21,2,0.09523809523809523
+Hourly,168,133,20,0.15037593984962405
