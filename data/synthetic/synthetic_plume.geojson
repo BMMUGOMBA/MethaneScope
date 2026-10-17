@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "source_id": "SYNTHETIC_001",
+        "source": "MethaneScope AI",
+        "data_type": "synthetic",
+        "measurement_status": "simulated"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.0405,
+              -17.0805
+            ],
+            [
+              28.0805,
+              -17.0805
+            ],
+            [
+              28.0805,
+              -17.0405
+            ],
+            [
+              28.0405,
+              -17.0405
+            ],
+            [
+              28.0405,
+              -17.0805
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

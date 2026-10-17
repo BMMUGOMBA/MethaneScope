@@ -1,0 +1,2 @@
+provider,instrument,dataset_short_name,version,doi,raster_filename,geojson_filename,enhancement_units,data_origin,valid_pixels_band1,maximum_band1_value
+NASA LP DAAC,NASA EMIT,EMITL2BCH4PLM,002,10.5067/EMIT/EMITL2BCH4PLM.002,EMIT_L2B_CH4PLM_002_20220810T064957_000485.tif,EMIT_L2B_CH4PLMMETA_002_20220810T064957_000485.json,ppm m,real satellite data,1967,3037.61376953125
