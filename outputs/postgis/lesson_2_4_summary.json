@@ -1,0 +1,12 @@
+{
+  "lesson": "2.4",
+  "mode": "real",
+  "source": "NASA_EMIT_CANDIDATE",
+  "ingestion_counts": {
+    "INSERTED": 1
+  },
+  "granules_after_idempotency_test": 1,
+  "plume_features_after_idempotency_test": 1,
+  "scientific_validation": "NOT_ESTABLISHED",
+  "export_file": "outputs\\postgis\\lesson_2_4_ingestion_outcomes.csv"
+}
