@@ -1,0 +1,79 @@
+{
+  "generated_utc": "2026-10-18T11:34:14+00:00",
+  "last_10_runs": {
+    "SUCCESS": 1
+  },
+  "last_run": {
+    "started_utc": "2026-10-18T11:32:25+00:00",
+    "command": "run-once",
+    "result": "SUCCESS",
+    "failure_class": null,
+    "message": "Validation and transactional ingestion completed",
+    "preflight": {
+      "checked_utc": "2026-10-18T11:32:25+00:00",
+      "status": "OK",
+      "checks": [
+        {
+          "check": "file_discovery",
+          "status": "OK",
+          "detail": "1 raster(s), all metadata paired"
+        },
+        {
+          "check": "accepted_manifest",
+          "status": "OK",
+          "detail": "Mode=real, ACCEPTED rows=1"
+        },
+        {
+          "check": "postgresql_postgis",
+          "status": "OK",
+          "detail": "PostGIS 3.4 USE_GEOS=1 USE_PROJ=1 USE_STATS=1; granules=1; features=1"
+        }
+      ],
+      "scientific_validation": "NOT_ESTABLISHED"
+    },
+    "scientific_validation": "NOT_ESTABLISHED",
+    "validation_exit_code": 0,
+    "ingestion_exit_code": 0,
+    "latest_pipeline_audit": {
+      "filename": "20261018T113225Z_ingest_summary.json",
+      "summary": {
+        "timestamp_utc": "20261018T113225Z",
+        "lesson": "2.5",
+        "command": "ingest",
+        "mode": "real",
+        "counts": {
+          "SKIPPED": 1
+        },
+        "scientific_validation": "NOT_ESTABLISHED",
+        "details": {
+          "audit_id": 4,
+          "source_code": "NASA_EMIT_CANDIDATE",
+          "stored_granules": 1,
+          "stored_features": 1
+        }
+      }
+    },
+    "completed_utc": "2026-10-18T11:32:25+00:00",
+    "duration_seconds": 1.735
+  },
+  "latest_ingest_audit": {
+    "filename": "20261018T113225Z_ingest_summary.json",
+    "summary": {
+      "timestamp_utc": "20261018T113225Z",
+      "lesson": "2.5",
+      "command": "ingest",
+      "mode": "real",
+      "counts": {
+        "SKIPPED": 1
+      },
+      "scientific_validation": "NOT_ESTABLISHED",
+      "details": {
+        "audit_id": 4,
+        "source_code": "NASA_EMIT_CANDIDATE",
+        "stored_granules": 1,
+        "stored_features": 1
+      }
+    }
+  },
+  "notice": "This report monitors engineering pipeline operation, not scientific emissions accuracy."
+}
