@@ -1,0 +1,9 @@
+# Lesson 2.5: use with the MethaneScope .venv environment
+numpy>=1.26,<3
+pandas>=2.0,<3
+rasterio>=1.3,<2
+shapely>=2,<3
+python-dotenv>=1,<2
+psycopg[binary]>=3.2,<4
+pytest>=8,<10
+ipykernel>=6,<8
