@@ -1,0 +1,258 @@
+{
+  "generated_utc": "2026-10-18T12:45:05+00:00",
+  "product": "EMITL2BCH4PLM",
+  "version": "002",
+  "mode": "DRY_RUN",
+  "searched": 40,
+  "status_counts": {
+    "ALREADY_LOCAL": 1,
+    "AVAILABLE": 39
+  },
+  "planned_new_ids": [
+    "EMIT_L2B_CH4PLM_002_20220810T065021_000486",
+    "EMIT_L2B_CH4PLM_002_20220811T042630_000490",
+    "EMIT_L2B_CH4PLM_002_20220814T051412_000491"
+  ],
+  "downloaded": [],
+  "items": [
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220810T064957_000485",
+      "status": "ALREADY_LOCAL"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220810T065021_000486",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220810T065021_000486.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220810T065021_000486.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220810T065132_000496",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220810T065132_000496.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220810T065132_000496.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220810T065132_000487",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220810T065132_000487.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220810T065132_000487.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220811T042630_000490",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220811T042630_000490.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220811T042630_000490.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220814T051412_000491",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220814T051412_000491.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220814T051412_000491.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220815T042826_000492",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220815T042826_000492.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220815T042826_000492.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220815T042826_000493",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220815T042826_000493.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220815T042826_000493.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220815T042838_000494",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220815T042838_000494.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220815T042838_000494.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220815T074645_000495",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220815T074645_000495.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220815T074645_000495.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220815T074645_000742",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220815T074645_000742.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220815T074645_000742.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220815T140823_000497",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220815T140823_000497.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220815T140823_000497.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220816T034409_000741",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220816T034409_000741.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220816T034409_000741.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220816T101035_000502",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220816T101035_000502.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220816T101035_000502.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220816T101058_000500",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220816T101058_000500.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220816T101058_000500.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220816T114505_000498",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220816T114505_000498.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220816T114505_000498.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220817T043235_000744",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220817T043235_000744.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220817T043235_000744.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220817T043235_000743",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220817T043235_000743.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220817T043235_000743.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220817T092038_000503",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220817T092038_000503.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220817T092038_000503.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220818T034231_000507",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220818T034231_000507.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220818T034231_000507.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220818T070105_000508",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220818T070105_000508.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220818T070105_000508.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220818T083506_000506",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220818T083506_000506.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220818T083506_000506.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220818T114440_000505",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220818T114440_000505.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220818T114440_000505.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220819T092231_000510",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220819T092231_000510.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220819T092231_000510.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220819T123047_000511",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220819T123047_000511.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220819T123047_000511.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220820T052804_000514",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220820T052804_000514.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220820T052804_000514.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220820T083324_000512",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220820T083324_000512.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220820T083324_000512.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220820T083324_000513",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220820T083324_000513.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220820T083324_000513.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220820T100727_002712",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220820T100727_002712.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220820T100727_002712.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220820T100937_002713",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220820T100937_002713.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220820T100937_002713.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220820T101039_002715",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220820T101039_002715.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220820T101039_002715.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220821T110023_002720",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220821T110023_002720.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220821T110023_002720.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220821T110023_002719",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220821T110023_002719.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220821T110023_002719.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220822T065713_000517",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220822T065713_000517.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220822T065713_000517.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220822T100653_000516",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220822T100653_000516.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220822T100653_000516.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220823T074504_000519",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220823T074504_000519.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220823T074504_000519.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220823T074504_000520",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220823T074504_000520.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220823T074504_000520.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220823T074504_000523",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220823T074504_000523.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220823T074504_000523.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220823T074504_000522",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220823T074504_000522.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220823T074504_000522.json"
+    },
+    {
+      "id": "EMIT_L2B_CH4PLM_002_20220826T065435_000531",
+      "status": "AVAILABLE",
+      "raster_filename": "EMIT_L2B_CH4PLM_002_20220826T065435_000531.tif",
+      "metadata_filename": "EMIT_L2B_CH4PLMMETA_002_20220826T065435_000531.json"
+    }
+  ],
+  "scientific_validation": "NOT_ESTABLISHED"
+}

@@ -1,17 +1,17 @@
 {
-  "started_utc": "2026-10-18T12:30:49+00:00",
+  "started_utc": "2026-10-18T12:49:07+00:00",
   "command": "run-once",
   "result": "SUCCESS",
   "failure_class": null,
   "message": "Validation and transactional ingestion completed",
   "preflight": {
-    "checked_utc": "2026-10-18T12:30:49+00:00",
+    "checked_utc": "2026-10-18T12:49:07+00:00",
     "status": "OK",
     "checks": [
       {
         "check": "file_discovery",
         "status": "OK",
-        "detail": "1 raster(s), all metadata paired"
+        "detail": "4 raster(s), all metadata paired"
       },
       {
         "check": "accepted_manifest",
@@ -30,9 +30,9 @@
   "validation_exit_code": 0,
   "ingestion_exit_code": 0,
   "latest_pipeline_audit": {
-    "filename": "20261018T123049Z_ingest_summary.json",
+    "filename": "20261018T124907Z_ingest_summary.json",
     "summary": {
-      "timestamp_utc": "20261018T123049Z",
+      "timestamp_utc": "20261018T124907Z",
       "lesson": "2.5",
       "command": "ingest",
       "mode": "real",
@@ -41,13 +41,13 @@
       },
       "scientific_validation": "NOT_ESTABLISHED",
       "details": {
-        "audit_id": 5,
+        "audit_id": 6,
         "source_code": "NASA_EMIT_CANDIDATE",
         "stored_granules": 1,
         "stored_features": 1
       }
     }
   },
-  "completed_utc": "2026-10-18T12:30:49+00:00",
-  "duration_seconds": 1.367
+  "completed_utc": "2026-10-18T12:49:07+00:00",
+  "duration_seconds": 1.542
 }
