@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "granule_id": "EMIT_L2B_CH4PLM_002_20220814T051412_000491",
+    "status": "REVIEW",
+    "issues": [
+      "Less than 1% of pixels are valid; review masks"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+status,granule_id,message
+SKIPPED,EMIT_L2B_CH4PLM_002_20220810T064957_000485,Identical granule already stored
+INSERTED,EMIT_L2B_CH4PLM_002_20220810T065021_000486,1 metadata feature(s) stored
+INSERTED,EMIT_L2B_CH4PLM_002_20220811T042630_000490,1 metadata feature(s) stored

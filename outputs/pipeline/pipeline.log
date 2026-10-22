@@ -54,3 +54,43 @@
 2026-10-18 14:49:12,260 | INFO | PostGIS version: 3.4 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
 2026-10-18 14:49:12,270 | INFO | Source NASA_EMIT_CANDIDATE      stored granules=1
 2026-10-18 14:49:12,273 | INFO | Total stored GeoJSON features=1
+2026-10-18 15:01:06,349 | INFO | Command=validate Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:01:06,614 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | 1 GeoJSON feature(s)
+2026-10-18 15:01:06,630 | INFO | Audit files: C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T130106Z_validate_outcomes.csv and C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T130106Z_validate_summary.json
+2026-10-18 15:01:43,744 | INFO | Command=validate Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:01:43,853 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | 1 GeoJSON feature(s)
+2026-10-18 15:01:43,865 | INFO | Audit files: C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T130143Z_validate_outcomes.csv and C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T130143Z_validate_summary.json
+2026-10-18 15:01:43,869 | INFO | Command=ingest Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:01:43,916 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | 1 GeoJSON feature(s)
+2026-10-18 15:01:44,003 | INFO | Connected PostGIS version: 3.4 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2026-10-18 15:01:44,032 | INFO | SKIPPED | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | Identical granule already stored
+2026-10-18 15:01:44,051 | INFO | Audit ID 7; source=NASA_EMIT_CANDIDATE; stored granules=1, features=1
+2026-10-18 15:01:44,059 | INFO | Audit files: C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T130144Z_ingest_outcomes.csv and C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T130144Z_ingest_summary.json
+2026-10-18 15:01:59,190 | INFO | Command=status Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:02:00,078 | INFO | PostGIS version: 3.4 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2026-10-18 15:02:00,086 | INFO | Source NASA_EMIT_CANDIDATE      stored granules=1
+2026-10-18 15:02:00,090 | INFO | Total stored GeoJSON features=1
+2026-10-18 15:41:53,313 | INFO | Command=validate Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:41:53,661 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | 1 GeoJSON feature(s)
+2026-10-18 15:41:53,662 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T065021_000486 | 1 GeoJSON feature(s)
+2026-10-18 15:41:53,663 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220811T042630_000490 | 1 GeoJSON feature(s)
+2026-10-18 15:41:53,679 | INFO | Audit files: C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T134153Z_validate_outcomes.csv and C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T134153Z_validate_summary.json
+2026-10-18 15:43:51,519 | INFO | Command=validate Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:43:51,627 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | 1 GeoJSON feature(s)
+2026-10-18 15:43:51,628 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T065021_000486 | 1 GeoJSON feature(s)
+2026-10-18 15:43:51,629 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220811T042630_000490 | 1 GeoJSON feature(s)
+2026-10-18 15:43:51,638 | INFO | Audit files: C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T134351Z_validate_outcomes.csv and C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T134351Z_validate_summary.json
+2026-10-18 15:43:51,642 | INFO | Command=ingest Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:43:51,734 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | 1 GeoJSON feature(s)
+2026-10-18 15:43:51,735 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220810T065021_000486 | 1 GeoJSON feature(s)
+2026-10-18 15:43:51,737 | INFO | VALID | EMIT_L2B_CH4PLM_002_20220811T042630_000490 | 1 GeoJSON feature(s)
+2026-10-18 15:43:51,836 | INFO | Connected PostGIS version: 3.4 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2026-10-18 15:43:52,030 | INFO | SKIPPED | EMIT_L2B_CH4PLM_002_20220810T064957_000485 | Identical granule already stored
+2026-10-18 15:43:52,161 | INFO | INSERTED | EMIT_L2B_CH4PLM_002_20220810T065021_000486 | 1 metadata feature(s) stored
+2026-10-18 15:43:52,212 | INFO | INSERTED | EMIT_L2B_CH4PLM_002_20220811T042630_000490 | 1 metadata feature(s) stored
+2026-10-18 15:43:52,238 | INFO | Audit ID 8; source=NASA_EMIT_CANDIDATE; stored granules=3, features=3
+2026-10-18 15:43:52,245 | INFO | Audit files: C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T134352Z_ingest_outcomes.csv and C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope\outputs\pipeline\20261018T134352Z_ingest_summary.json
+2026-10-18 15:45:24,219 | INFO | Command=status Project=C:\Users\SOOQ ELASER\OneDrive\Desktop\RemoteSensing\MethaneScope
+2026-10-18 15:45:25,462 | INFO | PostGIS version: 3.4 USE_GEOS=1 USE_PROJ=1 USE_STATS=1
+2026-10-18 15:45:25,473 | INFO | Source NASA_EMIT_CANDIDATE      stored granules=3
+2026-10-18 15:45:25,479 | INFO | Total stored GeoJSON features=3

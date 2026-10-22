@@ -1,10 +1,9 @@
 {
   "mode": "real",
-  "data_origin": "NASA candidate files (not catalog-authenticated)",
-  "total_rasters_processed": 1,
+  "total_rasters_processed": 4,
   "counts_by_status": {
-    "ACCEPTED": 1
+    "ACCEPTED": 3,
+    "REVIEW": 1
   },
-  "scientific_validation": "NOT_ESTABLISHED",
-  "note": "All raw source data preserved; values are enhancement, not emission rate"
+  "scientific_validation": "NOT_ESTABLISHED"
 }

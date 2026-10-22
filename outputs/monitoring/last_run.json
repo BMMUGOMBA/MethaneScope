@@ -1,11 +1,11 @@
 {
-  "started_utc": "2026-10-18T12:49:07+00:00",
+  "started_utc": "2026-10-18T13:43:51+00:00",
   "command": "run-once",
   "result": "SUCCESS",
   "failure_class": null,
   "message": "Validation and transactional ingestion completed",
   "preflight": {
-    "checked_utc": "2026-10-18T12:49:07+00:00",
+    "checked_utc": "2026-10-18T13:43:51+00:00",
     "status": "OK",
     "checks": [
       {
@@ -16,7 +16,7 @@
       {
         "check": "accepted_manifest",
         "status": "OK",
-        "detail": "Mode=real, ACCEPTED rows=1"
+        "detail": "Mode=real, ACCEPTED rows=3"
       },
       {
         "check": "postgresql_postgis",
@@ -30,24 +30,25 @@
   "validation_exit_code": 0,
   "ingestion_exit_code": 0,
   "latest_pipeline_audit": {
-    "filename": "20261018T124907Z_ingest_summary.json",
+    "filename": "20261018T134352Z_ingest_summary.json",
     "summary": {
-      "timestamp_utc": "20261018T124907Z",
+      "timestamp_utc": "20261018T134352Z",
       "lesson": "2.5",
       "command": "ingest",
       "mode": "real",
       "counts": {
-        "SKIPPED": 1
+        "SKIPPED": 1,
+        "INSERTED": 2
       },
       "scientific_validation": "NOT_ESTABLISHED",
       "details": {
-        "audit_id": 6,
+        "audit_id": 8,
         "source_code": "NASA_EMIT_CANDIDATE",
-        "stored_granules": 1,
-        "stored_features": 1
+        "stored_granules": 3,
+        "stored_features": 3
       }
     }
   },
-  "completed_utc": "2026-10-18T12:49:07+00:00",
-  "duration_seconds": 1.542
+  "completed_utc": "2026-10-18T13:43:52+00:00",
+  "duration_seconds": 1.871
 }

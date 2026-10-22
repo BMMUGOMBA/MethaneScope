@@ -1,0 +1,16 @@
+{
+  "timestamp_utc": "20261018T130144Z",
+  "lesson": "2.5",
+  "command": "ingest",
+  "mode": "real",
+  "counts": {
+    "SKIPPED": 1
+  },
+  "scientific_validation": "NOT_ESTABLISHED",
+  "details": {
+    "audit_id": 7,
+    "source_code": "NASA_EMIT_CANDIDATE",
+    "stored_granules": 1,
+    "stored_features": 1
+  }
+}
